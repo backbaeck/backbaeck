@@ -1,16 +1,14 @@
-## Hi there 👋
+## 팀 개발을 위한 git github 시작하기
 
-<!--
-**backbaeck/backbaeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image](https://github.com/user-attachments/assets/1169e060-6a36-4d93-9e27-743dd1581943)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :octocat: 안녕하세요? 고양이에요
+
+-  😁 지금 열심히 git 공부중이에요
+-  😂 마크다운 문법도 배워야겠죠??
+-  😁 모두 함께 파이팅
+-  😒
+   
+
+
